@@ -2161,6 +2161,8 @@ a.post-thumbnail:hover {
 	font-size: 12px;
 	font-weight: 400;
 	line-height: 1.5;
+	color: white;
+	float: right;
 }
 
 /* Primary Sidebar */
